@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018982629953",
+    "project_id": "myapplication-14e9a",
+    "storage_bucket": "myapplication-14e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018982629953:android:f5b242da4f6adc421afcc0",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucs-iFHeVsbmgReMA9v7OlIgiqUab7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
